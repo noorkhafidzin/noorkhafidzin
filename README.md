@@ -6,7 +6,7 @@
 - 🖥️ See my portfolio at [My Portofolio](http://about.noorkhafidzin.com)
 - ✉️ You can contact me at [imam@noorkhafidzin.com](mailto:imam@noorkhafidzin.com)
 - 🧠 I'm learning JavaScript, React JS, Dart, etc
-  <a href="https://www.twitter.com/NoorKhafidzin" target="_blank" rel="noreferrer"><img
+- <a href="https://www.twitter.com/NoorKhafidzin" target="_blank" rel="noreferrer"><img
                     src="https://img.shields.io/twitter/follow/NoorKhafidzin?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                   /></a>
 
@@ -24,7 +24,6 @@
                                 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
                                 <a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
                     </p>
-
 
 ### Socials
 
